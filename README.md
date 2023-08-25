@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/dGQX7](https://shorturl.at/dGQX7)
 
-- ⚡ Fun fact **Gamer 🎮**
+- **Gamer 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

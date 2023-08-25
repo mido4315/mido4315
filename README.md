@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
-<h4>Passionate Software Engineer and Flutter developer with a keen interest in mobile application development and back‑end technologies. Commit‑
-ted to delivering user‑friendly solutions, I excel in collaborative environments and continuously adapt to new technologies. With a solid foundation
-in both front‑end and back‑end development, I aim to contribute my expertise to innovative projects while refining my software engineering skills.
-Currently pursuing a Computer Science degree, I am eager to leverage my skills across the full software development stack.
+<h4>Passionate Software Engineer and Flutter developer with a keen interest in mobile application development and back‑end technologies. Committed to delivering user‑friendly solutions, I excel in collaborative environments and continuously adapt to new technologies. With a solid foundation in both front‑end and back‑end development, I aim to contribute my expertise to innovative projects while refining my software engineering skills. Currently pursuing a Computer Science degree, I am eager to leverage my skills across the full software development stack.
 </h4>
 
 - 🌱 I’m currently learning **Swift - Express.js**

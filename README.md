@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Framework**
 
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
+[//]: <- 👨‍💻 All of my projects are available at [comming soon](comming soon)>
 
 - 💬 Ask me about **Flutter**
 

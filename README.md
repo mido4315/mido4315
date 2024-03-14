@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
-<h4>Passionate Software Engineer and Flutter developer with a keen interest in mobile application development and back‑end technologies. Committed to delivering user‑friendly solutions, I excel in collaborative environments and continuously adapt to new technologies. With a solid foundation in both front‑end and back‑end development, I aim to contribute my expertise to innovative projects while refining my software engineering skills. Currently pursuing a Computer Science degree, I am eager to leverage my skills across the full software development stack.
+<h4>Passionate Software Engineer and Flutter developer with a keen interest in exploring the AI field. Committed to delivering user-friendly solutions, I excel in collaborative environments and continuously adapt to new technologies. With a solid foundation in both mobile and back-end development, I aim to contribute my expertise to innovative projects while refining my software engineering skills. Currently pursuing a Computer Science degree, I am eager to explore the AI field further and aim to pursue a master's degree in it.
 </h4>
 
 - 🌱 I’m currently learning **Swift - Express.js**
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mohmedmahmoud3@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/dGQX7](https://shorturl.at/dGQX7)
+- 📄 Know about my experiences
 
 - 🎮 **Gamer**
 

@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
-<h4>Software Engineer and Flutter Developer with a degree in Computer Science, I have a strong foundation in both mobile and general software development. Known for producing clean, maintainable code and possessing a broad range of programming skills, I excel in collaborative environments. In addition to my core development work, I have a strong passion for Machine Learning and Data Science. I am actively pursuing knowledge in these areas through side projects and continuous learning.
+<h1 align="center">Hi 👋, I'm Mohamed Abdelshafy</h1>
+<h4>Software Engineer with a degree in Computer Science, I have a strong foundation in both mobile and general software development. Known for producing clean, maintainable code and possessing a broad range of programming skills, I excel in collaborative environments. In addition to my core development work, I have a strong passion for Machine Learning and Data Science. I am actively pursuing knowledge in these areas through side projects and continuous learning.
 </h4>
 
-- 🌱 I’m currently learning **Swift - Express.js**
+- 🌱 I’m currently learning more about **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Flutter Framework**
 

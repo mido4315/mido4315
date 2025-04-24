@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohamed Abdelshafy 👋</h1>
+<h1 align="center">Hi, I'm Mohamed 👋</h1>
 
 <p align="center">
   I'm a Software Engineer with a Computer Science degree, currently pursuing Data Science at TU Dortmund. I specialize in mobile (Flutter) and full-stack development, and I'm passionate about exploring Data Science and Machine Learning to solve real-world problems.
